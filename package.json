@@ -1,0 +1,12 @@
+```json
+{
+    "name": "jarviss-lead-magnet-generator",
+    "version": "1.0.0",
+    "description": "Componente Jarviss per generazione automatica lead magnet PDF",
+    "main": "lead_magnet_generator.js",
+    "type": "module",
+    "dependencies": {
+        "pdf-lib": "^1.4.0"
+    }
+}
+```
